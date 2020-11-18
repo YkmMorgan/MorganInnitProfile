@@ -9,26 +9,30 @@
   background-size: fill;  
   text-decoration: none; 
 }
+
 #navbar>ul>a:hover {
-   background:transparent
+   background:transparent;
 }
-   #HomeButton {
-            text-align: left;
-            text-decoration: none;
-        }
-   #navbar>ul>a {
-            float: right;
-            display: block;
-            background:transparent;
-            color: #eaeaea;
-            font-family: Roboto, Ariel;
-            text-align: center;
-            padding-top: 0.9rem;
-            width: 150px;
-            height: 2.1rem;
-            transition: background-color 0.2s;
-        }
+
+#HomeButton {
+    text-align: left;
+    text-decoration: none;
+}
+
+#navbar>ul>a {
+    float: right;
+    display: block;
+    background:transparent;
+    color: #eaeaea;
+    font-family: Roboto, Ariel;
+    text-align: center;
+    padding-top: 0.9rem;
+    width: 150px;
+    height: 2.1rem;
+    transition: background-color 0.2s;
+}
+
 a {
     color: #ececec;
    text-decoration: none;
- }
+}
