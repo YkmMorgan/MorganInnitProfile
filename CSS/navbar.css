@@ -1,1 +1,34 @@
-
+#navbar{
+  background:transparent; 
+  width: 70%; 
+  height: 3rem; 
+  padding-left: 10px; 
+  padding-right: 10px; 
+  margin-right: 10px; 
+  float: left;  
+  background-size: fill;  
+  text-decoration: none; 
+}
+#navbar>ul>a:hover {
+   background:transparent
+}
+   #HomeButton {
+            text-align: left;
+            text-decoration: none;
+        }
+   #navbar>ul>a {
+            float: right;
+            display: block;
+            background:transparent;
+            color: #eaeaea;
+            font-family: Roboto, Ariel;
+            text-align: center;
+            padding-top: 0.9rem;
+            width: 150px;
+            height: 2.1rem;
+            transition: background-color 0.2s;
+        }
+a {
+    color: #ececec;
+   text-decoration: none;
+ }
